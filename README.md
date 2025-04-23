@@ -16,8 +16,8 @@ A Python toolkit for general medical imaging tasks, focusing on NIFTI file proce
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ndonyapour/clinical_imaging_tools.git
-   cd aspire-tools
+   git clone git@github.com:ndonyapour/clinical-imaging-tools.git
+   cd clinical-imaging-tools
    ```
 
 2. **Install and Set Up Using UV**
